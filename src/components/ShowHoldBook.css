@@ -1,0 +1,26 @@
+.bookSearch {
+    margin: 0 auto;
+    width: 800px;
+}
+.bookSearch div11 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hiddencolumn {
+    display: none;
+}
+
+
+
+.ant-table {
+    background-color: white;
+}
+.ant-card-grid {
+    padding: 10px;
+}
+
+body {
+    background-color: white;
+    color: black;
+}
